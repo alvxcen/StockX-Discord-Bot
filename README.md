@@ -1,2 +1,2 @@
-# stockx-checker-public
+# stockx-data-checker
 StockX Discord bot
