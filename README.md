@@ -19,6 +19,8 @@ This returns an embed of:
 - Last size sold of the item corresponding with its price in $USD
 - Average Asking price of the item
 
+*You can use yourprefix.hello to test if the bot is working
+
 *Using keywords inputted by the user in which searches in the global url= https:/stockx.com/
 and then grabs the first result that appears. It then uses StockX's unofficial APIto get it's official API which has significantly more data.
 
