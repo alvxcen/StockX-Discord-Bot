@@ -1,0 +1,4 @@
+discord
+asyncio
+bs4
+requests
