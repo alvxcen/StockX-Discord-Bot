@@ -7,9 +7,9 @@ import json
 import urllib
 from requests.utils import requote_uri
 
-token = 'NTM0NDgyMzg1MjM2OTE4Mjcz.Dx6Ydg.A-JOlQKSWmGecKZ7PHOvBSurxr0'
+token = 'TOKEN' #Put your token here
 
-prefix = ['.']
+prefix = ['.'] #You can change this if you'd like
 
 bot = commands.Bot(command_prefix=prefix)
 
