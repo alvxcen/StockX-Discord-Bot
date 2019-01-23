@@ -1,4 +1,4 @@
-# stockx-checker-public
+# stockx-checker-discord-bot
 StockX Discord bot
 
 prefix = '.'
