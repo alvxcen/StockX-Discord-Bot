@@ -26,7 +26,4 @@ and then grabs the first result that appears. It then uses StockX's unofficial A
 
 Please edit your discord bot token and your command prefix, if you wish.
 
-![Example](https://user-images.githubusercontent.com/46334253/51568787-8ea32780-1e68-11e9-887a-ce5fed76bea0.png)
-
-![image](https://user-images.githubusercontent.com/46334253/51568863-c4481080-1e68-11e9-84dc-4018d2c31bd3.png)
 
